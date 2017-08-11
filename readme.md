@@ -1,5 +1,5 @@
 # Why
-I wanted to express my feelings towards my daugther Eleanor for her first birthday. I hope she comes to enjoy programming as much as I do one day. This is a working program and prints out:
+I wanted to express my feelings towards my daughter Eleanor for her first birthday. I hope she comes to enjoy programming as much as I do one day. This is a working program and prints out:
 
 ```
 We waited so long for you to arrive.
