@@ -8,7 +8,7 @@ Now that you are in our arms and home with us.
 We look forward to watching you grow.
 ```
 
-# Usuage
+# Usage
 Execute in VS or VSCode or Atom with the [Ionide](http://ionide.io/) extension.
 
 # Inspiration
